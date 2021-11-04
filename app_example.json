@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Trilhas Poéticas",
+    "slug": "trilhas-poeticas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFE1A6"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFE1A6"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "your-key"
+        }
+      },
+      "package": "your-package"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
