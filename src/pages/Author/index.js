@@ -12,7 +12,7 @@ import CustomText from '../../components/CustomText'
 // styles and images
 import author from '../../assets/author.png'
 import styles from './styles'
-import { colors } from '../../../stylesGlobal'
+import { colors } from '../../stylesGlobal'
 
 // utils
 import { goToPage } from '../../utils/navigation'

@@ -12,7 +12,7 @@ import CustomText from '../../components/CustomText'
 
 // styles
 import styles from './styles'
-import { colors } from '../../../stylesGlobal'
+import { colors } from '../../stylesGlobal'
 
 // utils
 import { goToPage, showRoutes } from '../../utils/navigation'

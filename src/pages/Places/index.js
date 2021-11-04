@@ -9,7 +9,7 @@ import MainScreen from '../../components/MainScreen'
 
 // styles
 import styles from './styles'
-import { colors } from '../../../stylesGlobal'
+import { colors } from '../../stylesGlobal'
 
 // mocks
 import { places } from '../../../mocks/places'

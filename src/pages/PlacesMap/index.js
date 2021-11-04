@@ -13,7 +13,7 @@ import MainScreen from '../../components/MainScreen'
 // styles and images
 import mapMarker from '../../assets/mapMarker.png'
 import styles from './styles'
-import { colors } from '../../../stylesGlobal'
+import { colors } from '../../stylesGlobal'
 
 // mocks
 import { places } from '../../../mocks/places'

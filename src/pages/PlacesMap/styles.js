@@ -1,5 +1,5 @@
 import { StyleSheet, Dimensions } from 'react-native'
-import { colors, FONT_BACK_LABEL } from '../../../stylesGlobal'
+import { colors, FONT_BACK_LABEL } from '../../stylesGlobal'
 
 
 export default StyleSheet.create({

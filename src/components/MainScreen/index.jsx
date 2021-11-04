@@ -3,7 +3,7 @@ import { StatusBar } from 'expo-status-bar'
 import { SafeAreaView, Text } from 'react-native'
 
 // styles
-import createStyle, { colors } from '../../../stylesGlobal'
+import createStyle, { colors } from '../../stylesGlobal'
 
 function MainScreen(props) {
 	const styles = createStyle(props.backgroundColor)

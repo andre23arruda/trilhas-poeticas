@@ -1,5 +1,5 @@
 import { StyleSheet, PixelRatio } from 'react-native'
-import { colors, FONT_BACK_LABEL } from '../../../stylesGlobal'
+import { colors, FONT_BACK_LABEL } from '../../stylesGlobal'
 
 const POEM_FONT_SIZE = PixelRatio.get() <= 2 ? 16.5 : 18
 
